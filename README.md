@@ -1,4 +1,6 @@
+
 # RAG Document Q&A with Ollama and Qwen-2.5
+<img src="img6.png" alt="Image Description" width="1500"/>
 
 ## 📌 Overview
 
