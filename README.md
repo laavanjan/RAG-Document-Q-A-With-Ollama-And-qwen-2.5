@@ -15,6 +15,13 @@ This project is a **Retrieval-Augmented Generation (RAG) based Document Q&A syst
 With this system, users can **upload research papers in PDF format** and ask questions about their content. The model retrieves relevant chunks from the documents and generates precise responses.
 
 ---
+📸 Example Usage
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![Alt Text](img1.png) | ![Alt Text](img2.png) | ![Alt Text](img3.png) |
+| Image 4 | Image 5 | Image 6 |
+| ![Alt Text](img4.png) | ![Alt Text](img5.png) | ![Alt Text](img6.png) |
+
 
 ## 🚀 Features
 
